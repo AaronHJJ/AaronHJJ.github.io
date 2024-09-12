@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Senior Research Fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore. I hold a Ph.D. in Management Science and Engineering from the School of Business, Sun Yat-sen University, Guangzhou, and a B.Eng. in Intelligent Transportation Systems from the School of Engineering, Sun Yat-sen University.
 
-to tackle challenging logistics and supply chain problems in collaboration with industry. This research has led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching. Additionally, I developed the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.
+My current research interest involves using data-driven optimization, empirical analysis and deep learning tools to tackle challenging logistics and supply chain problems in close collaboration with industry. This line of research has led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching. Additionally, I have developed the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.
 
 
 # 🔥 News
