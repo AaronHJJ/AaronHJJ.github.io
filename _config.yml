@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jinjia HUANG"
-description              : "Research Fellow at Institute of Operations Research and Analytics, National University of Singapore"
+description              : "Data-driven researcher passionate about optimization, deep learning, and LLM. Experienced in supply chain challenges, exploring remote sensing for OM puzzles."
 repository               : "AaronHJJ/JinjiaHUANG.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/AaronHJJ"
+  github           : "https://github.com/AaronHJJ/"
   google_plus      :
   keybase          :
   instagram        :
