@@ -28,7 +28,7 @@ redirect_from:
 # 📝 Publications 
 ## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">AAAI 2021</div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We study the use of registered volunteers to re-position empty bikes for riders in a bike sharing system.
@@ -38,7 +38,7 @@ redirect_from:
 </div>  
 
  - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Submitting to Manufacturing & Service Operations Management soon</em></b>, 2024.
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F0_WebAppDashBoard_Sep2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F0_WebAppDashBoard_Sep2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We develop a novel network design model for repositioning operations, leveraging conic programming and distributionally robust optimization. 
@@ -51,7 +51,7 @@ redirect_from:
 
  - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276, 2023.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">M&SOM 2023</div><img src='/images/F1_ConflictRobust.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F1_ConflictRobust.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We address the fundamental resource assignment problem faced by hub operators managing multiple services with scheduled starting and completion times, accounting for uncertain delays revealed over time.
@@ -63,7 +63,7 @@ operations.
 
  - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Draft completed. Target Journal: Production and Operations Management</em></b>, 2024.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
 [**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We aim at improving dynamic cross-docking at hubs, such as Singapore's port free-trade zone, in collaboration with IDSC consultancy.
@@ -75,7 +75,7 @@ operations.
 
  - **Jinjia Huang**, Chung-Piaw Teo, Mabel C.Chou,  Data Driven Inventory Modeling for Spare Parts in the MRO industry, <b><em>Manuscript in preparation. Target Journal: Production and Operations Management</em></b>, 2024.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F4_KomatsuMultiEchelonInventoryOptEngine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F4_KomatsuMultiEchelonInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
 [**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We partnered with Komatsu, a leading machinery manufacturer, to address multi-echelon inventory management for spare parts in a one-warehouse, multiple-distributor system.
@@ -87,7 +87,7 @@ operations.
 
  - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon</em></b>, 2024.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We explore the use of a class of Graph Neural Network (GNN) in modeling and exploiting the correlated demand patterns in multiple time series data. 
@@ -100,7 +100,7 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 
 - **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, <b><em>Under Revision (R&R decision) at Management Science</em></b>, 2024.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F2_RetailingEmpiricalStudy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F2_RetailingEmpiricalStudy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We study the impact of third-party grocery delivery adoption on retail operations using a stylized model, store-level transaction data (in the hundreds of millions), and a DiD synthetic control method.
