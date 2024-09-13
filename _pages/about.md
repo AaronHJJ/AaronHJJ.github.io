@@ -26,7 +26,7 @@ redirect_from:
 - *2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b>
 
 # 📝 Publications 
-## <span style="color: blue;">Strategic Network Design: A Little Flexibility Is All You Need</span>
+## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning using volunteers: crowd sourcing with choice restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">AAAI 2021</div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
@@ -47,7 +47,7 @@ redirect_from:
 </div>
 </div> 
 
-## <span style="color: blue;">Hub Operations: Robustness Boosts Efficiency</span>
+## <span style="color: blue;">Part 2---Hub Operations: Robustness Boosts Efficiency</span>
 
  - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276, 2023.
 
@@ -62,7 +62,7 @@ operations.
 </div>  
 
 
-## <span style="color: blue;">End-to-End Decision Making: Benefits of Data Pooling</span>
+## <span style="color: blue;">Part 3---End-to-End Decision Making: Benefits of Data Pooling</span>
 
  - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon</em></b>, 2024.
 
