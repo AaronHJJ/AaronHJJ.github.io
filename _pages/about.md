@@ -72,6 +72,17 @@ operations.
 </div>
 </div>  
 
+
+ - **Jinjia Huang**, Chung-Piaw Teo, Mabel C.Chou,  Data Driven Inventory Modeling for Spare Parts in the MRO industry, <b><em>Manuscript in preparation. Target Journal: Production and Operations Management</em></b>, 2024.
+
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F4_KomatsuMultiEchelonInventoryOptEngine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
+[**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We partnered with Komatsu, a leading machinery manufacturer, to address multi-echelon inventory management for spare parts in a one-warehouse, multiple-distributor system.
+- We jointly optimize inventory control for intermittent demand at the distributor level and warehouse inventory decisions.
+</div>
+</div>  
+
 ## <span style="color: blue;">Part 3---End-to-End Decision Making: Benefits of Data Pooling</span>
 
  - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon</em></b>, 2024.
@@ -87,7 +98,16 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>
 </div>  
 
+- **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, <b><em>Under Revision (R&R decision) at Management Science</em></b>, 2024.
 
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F2_RetailingEmpiricalStudy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
+[**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We study the impact of third-party grocery delivery adoption on retail operations using a stylized model, store-level transaction data (in the hundreds of millions), and a DiD synthetic control method.
+- We reveal that platform entry significantly increases sales dispersion, reduces popular product sales and volume, while leaving revenue unchanged.
+- We derive a new insight that applying inventory pooling to account for sales dispersion changes can improve warehouse-level ordering decisions and mitigate stock imbalances.
+</div>
+</div>  
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
