@@ -59,11 +59,12 @@ operations.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
-[**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We address the fundamental resource assignment problem faced by hub operators managing multiple services with scheduled starting and completion times, accounting for uncertain delays revealed over time.
-- We derive a new insight that conflicts and crossings are equivalent under worst-case delay realization.
-- This provides the first theoretical explanation, from the perspective of (distributionally) robust optimization for the good performance of the buffering approach in minimizing both crossings and conflicts in the
-operations.
+[**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+-We explore the use of a class of Graph Neural Network (GNN) in modeling and exploiting the correlated demand patterns in multiple time series data. 
+-We describe an application of GNN approach on a printer service management problem posed by an industry collaborator.
+-This project led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control. The JPO system beta v1.0 was launched on August 29, 2024, for
+internal use at NUS and has been used in undergraduate course teaching exercises.
+- We provide the novel insight that GNNs might benefit from the data pooling effect inherent to a statistical phenomenon.
 </div>
 </div>  
 
