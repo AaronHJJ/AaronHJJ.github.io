@@ -29,12 +29,13 @@ redirect_from:
 
 ## Hub Operations: Robustness Boosts Efficiency
 
-<p style="margin-bottom: 0;">
+<p style="margin-bottom: 0.1;">
   - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, 
   [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), 
   <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276.
 </p>
-<div class='paper-box-image' style="margin-top: 0; padding-top: 0; margin-bottom: 0"><div><div class="badge">M&SOM 2023</div><img src='/images/F1_ConflictRobust.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-image'><div><div class="badge">M&SOM 2023</div><img src='/images/F1_ConflictRobust.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We address the fundamental resource assignment problem faced by hub operators managing multiple services with scheduled starting and completion times, accounting for uncertain delays revealed over time.
