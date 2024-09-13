@@ -110,16 +110,16 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>  
 
 # Academic Experience
-- *August 2018 - Present*, Senior Research Fellow, IORA, NUS.
-- *July 2016 - April 2018* Visiting Ph.D. student in DAO, NUS. 
+- August 2018 - Present, Senior Research Fellow, IORA, NUS.
+- July 2016 - April 2018, Visiting Ph.D. student in DAO, NUS. 
 
 # Educations
-- Ph.D. in Management Science and Engineering, 2018, Sun Yat-sen University. 
-- B.Eng. in Intelligent Transportation System, 2012, Sun Yat-sen University. 
+- Ph.D. in Management Science and Engineering, 2018, Sun Yat-sen University, Guangzhou, China. 
+- B.Eng. in Intelligent Transportation System, 2012, Sun Yat-sen University, Guangzhou, China. 
 
 # Teaching
 - Guest lecture on “Forecasting” for third-year undergraduates at NUS (March 2022)
-- Guest lecture for a summer camp on “Advanced Application of Python”, “LangChain and LLM-1” and “LangChain and LLM-2” for undergraduates (August 2024)
+- Guest lectures for a summer camp on “Advanced Application of Python” and “LangChain and LLM” for undergraduates (August 2024)
 
 # Conference Presentations
 - <b> INFORMS: </b> 2023,2024
