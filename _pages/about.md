@@ -23,11 +23,11 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 #  News
-- *2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b>
+- <span style="font-family: 'Merriweather', serif;">*2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b></span>
 
 <span class='anchor' id='-publications'></span>
 #  Publications 
-## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
+## <span style="color: blue;font-family: 'Merriweather', serif;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
