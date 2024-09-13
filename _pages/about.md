@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="font-size: 1.3em; font-family: 'Merriweather', serif;">I am a Senior Research Fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore. I am fortunately advised by [Prof. Chung-Piaw Teo](https://www.teochungpiaw.com/) and [Prof. Mabel C.Chou](https://iora.nus.edu.sg/people-p/mabel-chou/). I also work closely with [Prof. Zhou Xu](https://sites.google.com/view/xuzhou) and [Prof. Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home). I hold a Ph.D. in Management Science and Engineering from the School of Business, Sun Yat-sen University, Guangzhou, and a B.Eng. in Intelligent Transportation Systems from the School of Engineering, Sun Yat-sen University.</span>
+<span style="font-size: 1.3em; font-family: 'Merriweather', serif;">I am a Senior Research Fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore. Trained initially at Sun Yat-sen University, and later refined at Department of Analytics and Operations and IORA at National University of Singapore, I am fortunately advised by [Prof. Chung-Piaw Teo](https://www.teochungpiaw.com/) and [Prof. Mabel C.Chou](https://iora.nus.edu.sg/people-p/mabel-chou/). I also work closely with [Prof. Zhou Xu](https://sites.google.com/view/xuzhou) and [Prof. Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home). </span>
 
 <span style="font-size: 1.3em; font-family: 'Merriweather', serif;">My current research interest involves using data-driven optimization, empirical analysis and deep learning tools to tackle challenging logistics and supply chain problems in close collaboration with industry. This line of research has led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching. Additionally, I have developed the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.</span>
 
@@ -27,7 +27,7 @@ redirect_from:
 
 # 📝 Publications 
 ## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
- - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning using volunteers: crowd sourcing with choice restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
+ - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">AAAI 2021</div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
