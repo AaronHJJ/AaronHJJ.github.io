@@ -23,11 +23,11 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 #  News
-- <span style="font-family: 'Merriweather', serif;">*2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b></span>
+- *2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b>
 
 <span class='anchor' id='-publications'></span>
 #  Publications 
-## <span style="color: blue;font-family: 'Merriweather', serif;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
+## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
@@ -109,6 +109,14 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 - We derive a new insight that applying inventory pooling to account for sales dispersion changes can improve warehouse-level ordering decisions and mitigate stock imbalances.
 </div>
 </div>  
+
+<span class='anchor' id='-ongoing-projects'></span>
+#  Ongoing Projects
+- <b> Application of Generative AI for Airline Demand Forecasting and Seat Pricing: </b> Joint work with SIA Lab, NUS in Singapore.
+- <b> Automated Bus Depot Parking Lot Allocation: </b> Joint work with SBS Transit Ltd in Singapore
+- <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China 
+- <b> Inventory Control and Order Fulfillment for Jerome’s Furniture: </b> Inventory Control and Order Fulfillment for Jerome’s Furniture in USA
+
 
 <span class='anchor' id='-academic-experience'></span>
 #  Academic Experience
