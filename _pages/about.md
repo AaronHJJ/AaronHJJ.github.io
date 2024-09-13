@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<span style="font-size: 1.3em; font-family: 'Merriweather', serif;">I am a Senior Research Fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore (NUS). Trained initially at Sun Yat-sen University, and later refined at Department of Analytics and Operations and IORA at NUS, I am fortunately advised by [Prof. Chung-Piaw Teo](https://www.teochungpiaw.com/) and [Prof. Mabel C.Chou](https://iora.nus.edu.sg/people-p/mabel-chou/). I also work closely with [Prof. Zhou Xu](https://sites.google.com/view/xuzhou) and [Prof. Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home). </span>
+<span style="font-size: 1.3em; font-family: 'Merriweather', serif;">I am a Senior Research Fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore (NUS). Trained initially at Sun Yat-sen University, and later refined at Department of Analytics and Operations (DAO) and IORA at NUS, I am fortunately advised by [Prof. Chung-Piaw Teo](https://www.teochungpiaw.com/) and [Prof. Mabel C.Chou](https://iora.nus.edu.sg/people-p/mabel-chou/). I also work closely with [Prof. Zhou Xu](https://sites.google.com/view/xuzhou) and [Prof. Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home). </span>
 
 <span style="font-size: 1.3em; font-family: 'Merriweather', serif;">My current research interest involves using data-driven optimization, empirical analysis and deep learning tools to tackle challenging logistics and supply chain problems in close collaboration with industry. This line of research has led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching. Additionally, I have developed the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.</span>
 
@@ -109,22 +109,23 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>
 </div>  
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # Academic Experience
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *August 2018 - Present*, Senior Research Fellow, IORA, NUS.
+- *July 2016 - April 2018* Visiting Ph.D. student in DAO, NUS. 
 
 # Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Ph.D. in Management Science and Engineering, 2018, Sun Yat-sen University. 
+- B.Eng. in Intelligent Transportation System, 2012, Sun Yat-sen University. 
 
 # Teaching
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Guest lecture on “Forecasting” for third-year undergraduates at NUS (March 2022)
+- Guest lecture for a summer camp on “Advanced Application of Python”, “LangChain and LLM-1” and “LangChain and LLM-2” for undergraduates (August 2024)
 
 # Conference Presentations
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- <b> INFORMS: </b> 2023,2024
+- <b> POMS: </b> 2023
+- <b> POMS-HK: </b> 2018,2023,2024
+- <b> DSI: </b> 2019, 2022
+- <b> AAAI: </b> 2021
 
-# Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
