@@ -57,7 +57,7 @@ operations.
 
  - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon.</em></b>, 2024.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We address the fundamental resource assignment problem faced by hub operators managing multiple services with scheduled starting and completion times, accounting for uncertain delays revealed over time.
