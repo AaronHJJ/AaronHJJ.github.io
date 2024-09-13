@@ -36,8 +36,11 @@ redirect_from:
 
 **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We address the fundamental resource assignment problem faced by hub operators managing multiple services with scheduled starting and completion times, accounting for uncertain delays revealed over time.
+- We derive a new insight that conflicts (when a service arrives but its resource is unavailable) and crossings (when a service’s actual completion time exceeds the scheduled start of the next service using the same resource) are equivalent under worst-case delay realization.
+- This provides the first theoretical explanation, from the perspective of (distributionally) robust optimization for the good performance of the buffering approach in minimizing both crossings and conflicts in the
+operations.
 </div>
 </div>
 
