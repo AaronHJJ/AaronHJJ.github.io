@@ -37,7 +37,7 @@ redirect_from:
 </div>
 </div>  
 
- - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, [The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System], <b><em>Submitting to Manufacturing & Service Operations Management soon</em></b>, 2024.
+ - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Submitting to Manufacturing & Service Operations Management soon</em></b>, 2024.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F0_WebAppDashBoard_Sep2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
