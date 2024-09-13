@@ -38,7 +38,7 @@ redirect_from:
 
 [**Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We address the fundamental resource assignment problem faced by hub operators managing multiple services with scheduled starting and completion times, accounting for uncertain delays revealed over time.
-- We derive a new insight that conflicts (when a service arrives but its resource is unavailable) and crossings (when a service’s actual completion time exceeds the scheduled start of the next service using the same resource) are equivalent under worst-case delay realization.
+- We derive a new insight that conflicts and crossings are equivalent under worst-case delay realization.
 - This provides the first theoretical explanation, from the perspective of (distributionally) robust optimization for the good performance of the buffering approach in minimizing both crossings and conflicts in the
 operations.
 </div>
