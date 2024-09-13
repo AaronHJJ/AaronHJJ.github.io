@@ -32,6 +32,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf)
+Manufacturing & Service Operations Management, 25(6), 2268-2276.
 
 **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu
 
