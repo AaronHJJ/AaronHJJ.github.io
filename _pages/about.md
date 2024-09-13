@@ -66,9 +66,9 @@ operations.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
 [**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We aimed at improving dynamic cross-docking at hubs, such as Singapore's port free-trade zone, in collaboration with IDSC consultancy.
-- We used a semi-definite programming (SDP) model to optimize buffer inventory, addressing uncertainties in arrival sequences, supply, and demand, thereby streamlining cross-docking.
-- Our work led to the development of the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/).
+- We aim at improving dynamic cross-docking at hubs, such as Singapore's port free-trade zone, in collaboration with IDSC consultancy.
+- We use a semi-definite programming (SDP) model to optimize buffer inventory, addressing uncertainties in arrival sequences, supply, and demand, thereby streamlining cross-docking.
+- Our work leads to the development of the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/).
 </div>
 </div>  
 
@@ -81,7 +81,7 @@ operations.
 [**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We explore the use of a class of Graph Neural Network (GNN) in modeling and exploiting the correlated demand patterns in multiple time series data. 
 - We describe an application of GNN approach on a printer service management problem posed by an industry collaborator.
-- This project led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control. The JPO system beta v1.0 was launched on August 29, 2024, for
+- This project leads to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control. The JPO system beta v1.0 was launched on August 29, 2024, for
 internal use at NUS and has been used in undergraduate course teaching exercises.
 - We provide the novel insight that GNNs might benefit from the data pooling effect inherent to a statistical phenomenon.
 </div>
