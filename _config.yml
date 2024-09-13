@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "<center>Jinjia HUANG<br>黄锦佳</center>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<center> Research Fellow at IORA, NUS / Optimization / Deep Learning / Remote Sensing / LLM </center>"
+  bio              : "Research Fellow at IORA, NUS / Optimization / Deep Learning / Remote Sensing / LLM"
   location         : "Singapore"
   employer         :
   pubmed           : 
