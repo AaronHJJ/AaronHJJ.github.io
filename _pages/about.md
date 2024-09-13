@@ -55,7 +55,7 @@ operations.
 
 ## <span style="color: blue;">End-to-End Decision Making: Benefits of Data Pooling</span>
 
- - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon.</em></b>, 2024.
+ - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon</em></b>, 2024.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
