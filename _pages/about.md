@@ -26,10 +26,21 @@ redirect_from:
 - *2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b>
 
 # 📝 Publications 
+## <span style="color: blue;">Strategic Network Design: A Little Flexibility is All You Need</span>
+ - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Bike-repositioning using volunteers: crowd sourcing with choice restriction.](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">AAAI 2021</div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
+[**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We study the use of registered volunteers to re-position empty bikes for riders in a bike sharing system.
+- We solve a transshipment network design model to account for random route demand and construct a sparse structure that limits volunteer re-balancing to essential routes.
+- This provide new insights into the performance of sparse structures in bike re-balancing, showing that concentrating flows reduces redundant moves significantly with minimal impact on demand satisfaction.
+</div>
+</div>  
 
-## Hub Operations: Robustness Boosts Efficiency
- 
- - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276.
+
+## <span style="color: blue;">Hub Operations: Robustness Boosts Efficiency</span>
+
+ - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276, 2023.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">M&SOM 2023</div><img src='/images/F1_ConflictRobust.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
