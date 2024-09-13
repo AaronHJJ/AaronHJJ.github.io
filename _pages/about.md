@@ -22,10 +22,10 @@ redirect_from:
 <span style="font-size: 1.3em; font-family: 'Merriweather', serif;">My current research interest involves using data-driven optimization, empirical analysis and deep learning tools to tackle challenging logistics and supply chain problems in close collaboration with industry. This line of research has led to the development of the Joint Prediction and Optimization (JPO) system for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching. Additionally, I have developed the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.</span>
 
 
-# News
+#  News
 - *2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b>
 
-# Publications 
+#  Publications 
 ## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
@@ -109,19 +109,19 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>
 </div>  
 
-# Academic Experience
+#  Academic Experience
 - August 2018 - Present, Senior Research Fellow, IORA, NUS.
 - July 2016 - April 2018, Visiting Ph.D. student in DAO, NUS. 
 
-# Educations
+#  Educations
 - Ph.D. in Management Science and Engineering, 2018, Sun Yat-sen University, Guangzhou, China. 
 - B.Eng. in Intelligent Transportation System, 2012, Sun Yat-sen University, Guangzhou, China. 
 
-# Teaching
+#  Teaching
 - Guest lecture on “Forecasting” for third-year undergraduates at NUS (March 2022)
 - Guest lectures for a summer camp on “Advanced Application of Python” and “LangChain and LLM” for undergraduates (August 2024)
 
-# Conference Presentations
+#  Conference Presentations
 - <b> INFORMS: </b> 2023,2024
 - <b> POMS: </b> 2023
 - <b> POMS-HK: </b> 2018,2023,2024
