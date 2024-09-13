@@ -63,8 +63,8 @@ operations.
 
  - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Draft completed. Target Journal: Production and Operations Management</em></b>, 2024.
 
-<div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
+<div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="margin-top: -1.5em; padding-top: 0; margin-bottom: 0">
 [**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We aimed at improving dynamic cross-docking at hubs, such as Singapore's port free-trade zone, in collaboration with IDSC consultancy.
 - We used a semi-definite programming (SDP) model to optimize buffer inventory, addressing uncertainties in arrival sequences, supply, and demand, thereby streamlining cross-docking.
