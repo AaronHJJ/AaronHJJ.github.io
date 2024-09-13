@@ -27,7 +27,7 @@ redirect_from:
 
 # 📝 Publications 
 ## <span style="color: blue;">Strategic Network Design: A Little Flexibility Is All You Need</span>
- - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning using volunteers: crowd sourcing with choice restriction.](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
+ - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning using volunteers: crowd sourcing with choice restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -3.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">AAAI 2021</div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
