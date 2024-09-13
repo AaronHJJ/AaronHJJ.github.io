@@ -102,7 +102,7 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0"><div><div class="badge">Research 2024</div><img src='/images/F2_RetailingEmpiricalStudy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.5em; padding-top: 0; margin-bottom: 0">
-[**Research & Project**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We study the impact of third-party grocery delivery adoption on retail operations using a stylized model, store-level transaction data (in the hundreds of millions), and a DiD synthetic control method.
 - We reveal that platform entry significantly increases sales dispersion, reduces popular product sales and volume, while leaving revenue unchanged.
 - We derive a new insight that applying inventory pooling to account for sales dispersion changes can improve warehouse-level ordering decisions and mitigate stock imbalances.
