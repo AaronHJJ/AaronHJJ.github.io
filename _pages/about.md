@@ -30,6 +30,9 @@ redirect_from:
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
  - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276, 2023.
 - **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, <b><em>Under Revision (R&R decision) at Management Science</em></b>, 2024.
+ - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Submitting to Manufacturing & Service Operations Management soon</em></b>, 2024.
+ - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon</em></b>, 2024.
+
 
 <span class='anchor' id='-research'></span>
 #  Research
