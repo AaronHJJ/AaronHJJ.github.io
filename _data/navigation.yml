@@ -9,11 +9,8 @@ main:
   - title: "Publications & Revisions"
     url: "/#-publications"
 
-  - title: "Research"
-    url: "/#-research"
-
-  - title: "Ongoing Projects"
-    url: "/#-ongoing-projects"
+  - title: "Projects"
+    url: "/#-projects"
 
   - title: "Academic Experience"
     url: "/#-academic-experience"
