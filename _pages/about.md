@@ -34,8 +34,8 @@ redirect_from:
  - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,  Graph Neural Network: Forecasting and Replenishment Planning, <b><em>Submitting to Production and Operations Management soon</em></b>, 2024.
 
 
-<span class='anchor' id='-research'></span>
-#  Research
+<span class='anchor' id='-projects'></span>
+#  Projects
 ## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
@@ -119,12 +119,12 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>
 </div>  
 
-<span class='anchor' id='-ongoing-projects'></span>
-#  Ongoing Projects
+## <span style="color: blue;">Part 4---Ongoing Projects</span>
 - <b> Application of Generative AI for Airline Demand Forecasting and Seat Pricing: </b> Joint work with SIA Lab, NUS in Singapore.
 - <b> Automated Bus Depot Parking Lot Allocation: </b> Joint work with SBS Transit Ltd in Singapore
 - <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China 
 - <b> Inventory Control and Order Fulfillment for Jerome’s Furniture: </b> Inventory Control and Order Fulfillment for Jerome’s Furniture in USA
+
 
 
 <span class='anchor' id='-academic-experience'></span>
