@@ -128,6 +128,7 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 <span class='anchor' id='-academic-experience'></span>
 #  Academic Experience
 - August 2018 - Present, Senior Research Fellow, IORA, NUS.
+- August 2022 - March 2023, Visiting Assistant Professor, Department of Supply Chain Management, Michigan State University. 
 - July 2016 - April 2018, Visiting Ph.D. student in DAO, NUS. 
 
 <span class='anchor' id='-educations'></span>
