@@ -118,6 +118,7 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>  
 
 ## <span style="color: blue;">Part 4---Ongoing Projects</span>
+- <b> Leveraging Large Language Models to Analyze Drivers of Aviation Volume Growth: </b> Joint work with VariFlight in China.
 - <b> Application of Generative AI for Airline Demand Forecasting and Seat Pricing: </b> Joint work with SIA Lab, NUS in Singapore.
 - <b> Automated Bus Depot Parking Lot Allocation: </b> Joint work with SBS Transit Ltd in Singapore
 - <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China 
