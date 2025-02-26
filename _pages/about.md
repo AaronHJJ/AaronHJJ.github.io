@@ -94,7 +94,7 @@ operations.
 
 ## <span style="color: blue;">Part 3---End-to-End Decision Making: Benefits of Data Pooling</span>
 
- - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Review at Production and Operations Management</em></b>, 2024.
+ - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Review at Production and Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -119,11 +119,15 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>  
 
 ## <span style="color: blue;">Part 4---Ongoing Projects</span>
+**Transportation**
 - <b> Leveraging Large Language Models to Analyze Drivers of Aviation Volume Growth: </b> Joint work with VariFlight in China.
 - <b> Application of Generative AI for Airline Demand Forecasting and Seat Pricing: </b> Joint work with SIA Lab, NUS in Singapore.
 - <b> Automated Bus Depot Parking Lot Allocation: </b> Joint work with SBS Transit Ltd in Singapore
-- <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China 
-- <b> Inventory Control and Order Fulfillment for Jerome’s Furniture: </b> Inventory Control and Order Fulfillment for Jerome’s Furniture in USA
+**Healthcare**
+- <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China
+**Supply Chain**
+- <b> Inventory Control and Order Fulfillment for Jerome’s Furniture: </b> Inventory Control and Order Fulfillment for Jerome’s Furniture in USA 
+- <b> Procurement Financing Optimization for Multi-Echelon Supply Chains with Credit and Random Demand: </b> Supervision of a PhD student
 
 
 
