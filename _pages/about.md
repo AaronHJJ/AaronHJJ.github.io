@@ -123,8 +123,10 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 - <b> Leveraging Large Language Models to Analyze Drivers of Aviation Volume Growth: </b> Joint work with VariFlight in China.
 - <b> Application of Generative AI for Airline Demand Forecasting and Seat Pricing: </b> Joint work with SIA Lab, NUS in Singapore.
 - <b> Automated Bus Depot Parking Lot Allocation: </b> Joint work with SBS Transit Ltd in Singapore
+
 **Healthcare**
 - <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China
+
 **Supply Chain**
 - <b> Inventory Control and Order Fulfillment for Jerome’s Furniture: </b> Inventory Control and Order Fulfillment for Jerome’s Furniture in USA 
 - <b> Procurement Financing Optimization for Multi-Echelon Supply Chains with Credit and Random Demand: </b> Supervision of a PhD student
