@@ -23,7 +23,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 #  News
-- *2024.09*: &nbsp; <b>I am on the 2024-2025 academic job market.</b>
+- *2024.09*: &nbsp; <b>I am on the 2025-2026 academic job market.</b>
 
 <span class='anchor' id='-publications'></span>
 #  Publications & Revisions
