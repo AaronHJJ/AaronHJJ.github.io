@@ -46,12 +46,12 @@ redirect_from:
 </div>
 </div>  
 
- - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Under Review at Manufacturing & Service Operations Management</em></b>, 2024.
+ - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Invited for Submission to Production and Operations Management</em></b>, 2025.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F0_WebAppDashBoard_Sep2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We develop a novel network design model for repositioning operations, leveraging conic programming and distributionally robust optimization. 
-- We provide arguably the first study on constructing sparse networks in decentralized deployment with choice behavior.
+- We develop a novel network design model for process flexibility systems with agent choice, leveraging conic programming and distributionally robust optimization. 
+- We provide arguably the first study on constructing sparse networks in decentralized settings with choice behavior.
 - We reveal a paradoxical phenomenon: sometimes, <em> less (choices) can be more (efficient)</em>. We provide new sights into the value of sparse structures.
 </div>
 </div> 
