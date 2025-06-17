@@ -20,10 +20,11 @@ redirect_from:
 <span style="font-size: 1.3em; font-family: 'Merriweather', serif;"> Hi! I am a Senior Research Fellow at the Institute of Operations Research and Analytics (IORA), National University of Singapore (NUS). Trained initially at Sun Yat-sen University, and later refined at Department of Analytics and Operations (DAO) and IORA at NUS, I am fortunately advised by [Prof. Chung-Piaw Teo](https://www.teochungpiaw.com/) and [Prof. Fan Wang](https://bus.sysu.edu.cn/en/teacher/WangFan) and [Prof. Mabel C.Chou](https://iora.nus.edu.sg/people-p/mabel-chou/). I also work closely with  [Prof. Zhou Xu](https://sites.google.com/view/xuzhou) and [Prof. Zhenzhen Yan](https://sites.google.com/view/zhenzhenyan/home). </span>
 
 <span style="font-size: 1.3em; font-family: 'Merriweather', serif;">My research is rooted in **airport and airline operations management** and **logistics and supply chain management**, with a strong emphasis on applying data-driven optimization, deep learning and empirical analysis. Recently, driven by a keen interest in geospatial analytics, I have been actively exploring a new research frontier—**leveraging remote sensing technologies for operations management and disaster response applications**. This integrated research agenda has led to the development of several practical systems, including:</span> 
-- (1) the [Joint Prediction and Optimization (JPO) system](http://172.18.168.44:9000/) for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching.
-- (2) the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.
-- (3) the [Critical Global Trade Analytics Dashboard](http://appiora.nus.edu.sg/scdashboard/), developed in collaboration with PSA Singapore, to monitor and enhance supply chain resilience for key import/export commodities such as semiconductors.
-
+<ul style="font-size: 1.3em; font-family: 'Merriweather', serif;">
+<li> (1) the [Joint Prediction and Optimization (JPO) system](http://172.18.168.44:9000/) for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching.
+<li> (2) the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.
+<li>  (3) the [Critical Global Trade Analytics Dashboard](http://appiora.nus.edu.sg/scdashboard/), developed in collaboration with PSA Singapore, to monitor and enhance supply chain resilience for key import/export commodities such as semiconductors.
+</ul>
 
 <span class='anchor' id='-news'></span>
 #  News
@@ -74,7 +75,7 @@ operations.
 </div>
 </div>  
 
- - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Draft completed. Manuscript in preparation for Manufacturing \& Service Operations Management</em></b>, 2025.
+ - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Manuscript in preparation for Manufacturing \& Service Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -86,7 +87,7 @@ operations.
 </div>  
 
 
- - **Jinjia Huang**, Chung-Piaw Teo, Mabel C.Chou,  Data Driven Inventory Modeling for Spare Parts in the MRO industry, <b><em>Manuscript in preparation. Manuscript in preparation for Production and Operations Management</em></b>, 2025.
+ - **Jinjia Huang**, Chung-Piaw Teo, Mabel C.Chou,  Data Driven Inventory Modeling for Spare Parts in the MRO industry, <b><em> Manuscript in preparation for Production and Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F4_KomatsuMultiEchelonInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -98,7 +99,7 @@ operations.
 
 ## <span style="color: blue;">Part 3---End-to-End Decision Making: Benefits of Data Pooling</span>
 
- - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Major Revision at Production and Operations Management</em></b>, 2025.
+ - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Major Revision at Production and Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
