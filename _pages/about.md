@@ -75,7 +75,7 @@ operations.
 </div>
 </div>  
 
- - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Manuscript in preparation for Manufacturing \& Service Operations Management</em></b>, 2025.
+ - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Manuscript in preparation for Manufacturing & Service Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
