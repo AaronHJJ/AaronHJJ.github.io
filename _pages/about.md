@@ -74,7 +74,7 @@ operations.
 </div>
 </div>  
 
- - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, Manuscript in preparation for <b><em>Manufacturing & Service Operations Management</em></b>, 2025.
+ - **Jinjia Huang**, Chung-Piaw Teo, Buffer Inventory Optimization for Dynamic Cross Docking for Uncertain Arrival Sequence, <b><em>Manuscript in preparation for Manufacturing & Service Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F3_BufferInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -86,7 +86,7 @@ operations.
 </div>  
 
 
- - **Jinjia Huang**, Chung-Piaw Teo, Mabel C.Chou,  Data Driven Inventory Modeling for Spare Parts in the MRO industry, Manuscript in preparation for <b><em> Production and Operations Management</em></b>, 2025.
+ - **Jinjia Huang**, Chung-Piaw Teo, Mabel C.Chou,  Data Driven Inventory Modeling for Spare Parts in the MRO industry, <b><em>Manuscript in preparation for Production and Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F4_KomatsuMultiEchelonInventoryOptEngine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -98,7 +98,7 @@ operations.
 
 ## <span style="color: blue;">Part 3---End-to-End Decision Making: Benefits of Data Pooling</span>
 
- - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, Under Major Revision at <b><em>Production and Operations Management</em></b>, 2025.
+ - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Major Revision at Production and Operations Management</em></b>, 2025.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F6_JPO.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -111,7 +111,7 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>
 </div>  
 
-- **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, Under Second-round Review at <b><em>Management Science</em></b>, 2023.
+- **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, <b><em>Under Second-round Review at Management Science</em></b>, 2023.
 
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F2_RetailingEmpiricalStudy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
