@@ -62,9 +62,11 @@ redirect_from:
  - **Komatsu (Japan)**: Spare parts demand forecasting and inventory control
  - **Jerome’s Furniture (USA)**:  Retail inventory strategy optimization
 
+
+
 <span class='anchor' id='-projects'></span>
-#  Research Projects
-## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
+#  Project Briefing
+## <span style="color: blue;">Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
@@ -85,7 +87,7 @@ redirect_from:
 </div>
 </div> 
 
-## <span style="color: blue;">Part 2---Hub Operations: Robustness Boosts Efficiency</span>
+## <span style="color: blue;">Hub Operations: Robustness Boosts Efficiency</span>
 
  - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276, 2023.
 
@@ -121,7 +123,7 @@ operations.
 </div>
 </div>  
 
-## <span style="color: blue;">Part 3---End-to-End Decision Making: Benefits of Data Pooling</span>
+## <span style="color: blue;">End-to-End Decision Making: Benefits of Data Pooling</span>
 
  - **Jinjia Huang**,  Mabel C. Chou, Chung-Piaw Teo,   Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Major Revision at Production and Operations Management</em></b>, 2025.
 
@@ -147,18 +149,23 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 </div>
 </div>  
 
-## <span style="color: blue;">Part 4---Ongoing Projects</span>
-**Transportation**
-- <b> Leveraging Large Language Models to Analyze Drivers of Aviation Volume Growth: </b> Joint work with VariFlight in China.
-- <b> Application of Generative AI for Airline Demand Forecasting and Seat Pricing: </b> Joint work with SIA Lab, NUS in Singapore.
-- <b> Automated Bus Depot Parking Lot Allocation: </b> Joint work with SBS Transit Ltd in Singapore
+## <span style="color: blue;">Other Ongoing Projects</span>
+**Airport Operations**
+- **Jinjia Huang**, Fan Wang, Zhou Xu,  Solving the Conflict-Robust Resource Assignment Problem: Exact and Approximation Algorithms, <b><em>Manuscript in preparation for INFORMS Journal on Computing</em></b>, 2025.
+- **Jinjia Huang**, Chung-Piaw Teo, Airport Stand Assignment with Process Flexibility, <b><em>Manuscript in preparation</em></b>, 2025.
+- **Jinjia Huang**, Chaikming Koh, Chung-Piaw Teo, Aviation Ecosystem: Strategic Insights from LLM-Augmented Global Route Analysis, <b><em>Manuscript in preparation</em></b>,  2025
+- 
+**Supply Chain & Logistics**
+- Hang Xu, **Jinjia Huang***, Chung-Piaw Teo, Optimizing Digital-Enabled Procurement Financing under Uncertain Demand and Credit Risk, <b><em>Manuscript in preparation for Manufacturing & Service Operations Management</em></b>,  2025
+
+
+**Bus Terminal Operations**
+- **Jinjia Huang**, Wenxuan Shan, Chung-Piaw Teo, Optimizing Bus Dispatching with Buffer Areas: A Smoother Approach to Parking Lot Operations, <b><em>Manuscript in preparation for Manufacturing & Service Operations Management</em></b>,  2025
+
 
 **Healthcare**
-- <b> Predicting Personalized Surgical Risk and Repair for Cleft Lip and Palate via Computer Vision: </b> Joint work with GuiYang People’s Hospital in China
+- S.Y. Wu, Y.K. Luo,  M.C. Chou, **Jinjia Huang#**, Personalized Surgical Risk and Repair for Cleft Lip and Palate in Underserved Regions of Western China, <b><em>Manuscript in preparation for European Journal of Operations Research</em></b>,  2025
 
-**Supply Chain**
-- <b> Inventory Control and Order Fulfillment for Jerome’s Furniture: </b> Inventory Control and Order Fulfillment for Jerome’s Furniture in USA 
-- <b> Procurement Financing Optimization for Multi-Echelon Supply Chains with Credit and Random Demand: </b> Supervision of a PhD student
 
 
 
@@ -180,9 +187,10 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 
 <span class='anchor' id='-conference-presentations'></span>
 #  Conference Presentations
+- <b> INFORMS International Meeting: </b> 2025
 - <b> INFORMS: </b> 2023,2024
 - <b> POMS: </b> 2023
-- <b> POMS-HK: </b> 2018,2023,2024
+- <b> POMS-HK: </b> 2018,2023,2024, 2025
 - <b> DSI: </b> 2019, 2022
 - <b> AAAI: </b> 2021
 
