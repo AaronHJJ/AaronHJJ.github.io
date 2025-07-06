@@ -38,7 +38,7 @@ redirect_from:
  -  **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Invited for Submission to Production and Operations Management</em></b>, 2025.
 
    
-<span class='anchor' id='-projects_industry'></span>
+<span class='anchor' id='-projects'></span>
 #  Collaborative Projects with Industry Partners (as Project Lead)
 ## <span style="color: black;">Airport Operations</span>
  - **VariFlight (China)**: Boarding gate optimization at Shanghai Pudong International Airport
@@ -64,7 +64,7 @@ redirect_from:
 
 
 
-<span class='anchor' id='-projects'></span>
+<span class='anchor' id='-projects_briefing'></span>
 #  Project Briefing
 ## <span style="color: blue;">Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
