@@ -154,7 +154,8 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 - **Jinjia Huang**, Fan Wang, Zhou Xu,  Solving the Conflict-Robust Resource Assignment Problem: Exact and Approximation Algorithms, <b><em>Manuscript in preparation for INFORMS Journal on Computing</em></b>, 2025.
 - **Jinjia Huang**, Chung-Piaw Teo, Airport Stand Assignment with Process Flexibility, <b><em>Manuscript in preparation</em></b>, 2025.
 - **Jinjia Huang**, Chaikming Koh, Chung-Piaw Teo, Aviation Ecosystem: Strategic Insights from LLM-Augmented Global Route Analysis, <b><em>Manuscript in preparation</em></b>,  2025
-- 
+
+
 **Supply Chain & Logistics**
 - Hang Xu, **Jinjia Huang***, Chung-Piaw Teo, Optimizing Digital-Enabled Procurement Financing under Uncertain Demand and Credit Risk, <b><em>Manuscript in preparation for Manufacturing & Service Operations Management</em></b>,  2025
 
@@ -164,7 +165,7 @@ internal use at NUS and has been used in undergraduate course teaching exercises
 
 
 **Healthcare**
-- S.Y. Wu, Y.K. Luo,  M.C. Chou, **Jinjia Huang#**, Personalized Surgical Risk and Repair for Cleft Lip and Palate in Underserved Regions of Western China, <b><em>Manuscript in preparation for European Journal of Operations Research</em></b>,  2025
+- S.Y. Wu, Y.K. Luo,  M.C. Chou, **Jinjia Huang***, Personalized Surgical Risk and Repair for Cleft Lip and Palate in Underserved Regions of Western China, <b><em>Manuscript in preparation for European Journal of Operations Research</em></b>,  2025
 
 
 
