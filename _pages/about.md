@@ -23,7 +23,7 @@ redirect_from:
 
 - (1) the [Joint Prediction and Optimization (JPO) system](http://172.18.168.44:9000/) for demand forecasting and inventory control, with beta v1.0 launched on August 29, 2024, for internal use at NUS and in undergraduate teaching.
 - (2) the [LogXHub system](https://appbyjinjiahuang.shinyapps.io/Demo1_DynamicPlanningSystemforCrossDockingOperations_Beta_v9/) to optimize buffer inventory and enhance dynamic cross-docking operations at hubs.
--  (3) the [Critical Global Trade Analytics Dashboard](http://appiora.nus.edu.sg/scdashboard/), developed in collaboration with PSA Singapore, to monitor and enhance supply chain resilience for key import/export commodities such as semiconductors.
+-  (3) the [Critical Global Trade & Resilience Analytics Dashboard](http://appiora.nus.edu.sg/scdashboard/), developed in collaboration with PSA Singapore, to monitor and enhance supply chain resilience for key import/export commodities such as semiconductors.
 
 <span class='anchor' id='-news'></span>
 #  News
