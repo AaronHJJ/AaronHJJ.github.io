@@ -36,8 +36,9 @@ redirect_from:
 - **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, <b><em>Under Second-round Review at Management Science</em></b>, 2023.
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Major Revision at Production and Operations Management</em></b>, 2025.
  -  **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Invited for Submission to Production and Operations Management</em></b>, 2025.
- - 
-<span class='anchor' id='-projects'></span>
+
+   
+<span class='anchor' id='-projects_industry'></span>
 #  Collaborative Projects with Industry Partners (as Project Lead)
 ## <span style="color: blue;">Airport Operations</span>
  - **VariFlight (China)**: Boarding gate optimization at Shanghai Pudong International Airport
@@ -57,6 +58,7 @@ redirect_from:
  - **Komatsu (Japan)**: Spare parts demand forecasting and inventory control
  - **Jerome’s Furniture (USA)**:  Retail inventory strategy optimization
 
+<span class='anchor' id='-projects'></span>
 #  Research Projects
 ## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
