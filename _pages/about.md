@@ -27,7 +27,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 #  News
-- *2024.09*: &nbsp; <b>I am on the 2025-2026 academic job market.</b>
+- *2025.07*: &nbsp; <b>I am on the 2025-2026 academic job market.</b>
 
 <span class='anchor' id='-publications'></span>
 #  Publications & Revisions
@@ -38,7 +38,26 @@ redirect_from:
  -  **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Invited for Submission to Production and Operations Management</em></b>, 2025.
  - 
 <span class='anchor' id='-projects'></span>
-#  Projects
+#  Collaborative Projects with Industry Partners (as Project Lead)
+## <span style="color: blue;">Airport Operations</span>
+ - **VariFlight (China)**: Boarding gate optimization at Shanghai Pudong International Airport
+ - **SF Express (China)**: Stand allocation at Ezhou Cargo Airport
+## <span style="color: blue;">Sustainable Aviation Fuel (SAF)</span>
+ - **China Eastern Airlines (China)**: Fuel efficiency & operations optimization, and impact of SAF
+## <span style="color: blue;">Airline Revenue Management</span>
+ - **Singapore Airlines (Singapore)**: Seat demand forecasting and dynamic pricing
+## <span style="color: blue;">Aviation & Economic Development</span>
+ - **Hangzhou Govt. & Partners: (China)**: Aviation ecosystem policy advisory
+## <span style="color: blue;">Supply Chain & Logistics in Aviation</span>
+ - **IDSC (Singapore)**: Air hub buffer inventory optimization under dynamic cross-docking operations
+ - **Carrier (USA)**: Predictive maintenance for 1,000+ cold-chain containers
+ - **PSA (Singapore)**: Supply chain resilience for critical imports/exports (e.g., semiconductors)
+ - **HP (Singapore)**: Demand forecasting and inventory optimization for printer consumables in China
+ - **BroaderWay (China)**: Capital pool optimization for Honor’s supply chain finance}
+ - **Komatsu (Japan)**: Spare parts demand forecasting and inventory control
+ - **Jerome’s Furniture (USA)**:  Retail inventory strategy optimization
+
+#  Research Projects
 ## <span style="color: blue;">Part 1---Strategic Network Design: A Little Flexibility Is All You Need</span>
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, [Bike-repositioning Using Volunteers: Crowd Sourcing with Choice Restriction](https://ojs.aaai.org/index.php/AAAI/article/view/17407), <b><em>In Proceedings of the AAAI Conference on Artificial Intelligence</em></b>, 35(13), 11844-11852, 2021.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F5_AAAI.jpg' alt="sym" width="100%" style="height:100%"></div></div>
