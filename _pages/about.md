@@ -40,16 +40,20 @@ redirect_from:
    
 <span class='anchor' id='-projects_industry'></span>
 #  Collaborative Projects with Industry Partners (as Project Lead)
-## <span style="color: blue;">Airport Operations</span>
+## <span style="color: black;">Airport Operations</span>
  - **VariFlight (China)**: Boarding gate optimization at Shanghai Pudong International Airport
  - **SF Express (China)**: Stand allocation at Ezhou Cargo Airport
-## <span style="color: blue;">Sustainable Aviation Fuel (SAF)</span>
+
+## <span style="color: black;">Sustainable Aviation Fuel (SAF)</span>
  - **China Eastern Airlines (China)**: Fuel efficiency & operations optimization, and impact of SAF
-## <span style="color: blue;">Airline Revenue Management</span>
+   
+## <span style="color: black;">Airline Revenue Management</span>
  - **Singapore Airlines (Singapore)**: Seat demand forecasting and dynamic pricing
-## <span style="color: blue;">Aviation & Economic Development</span>
+   
+## <span style="color: black;">Aviation & Economic Development</span>
  - **Hangzhou Govt. & Partners: (China)**: Aviation ecosystem policy advisory
-## <span style="color: blue;">Supply Chain & Logistics in Aviation</span>
+   
+## <span style="color: black;">Supply Chain & Logistics in Aviation</span>
  - **IDSC (Singapore)**: Air hub buffer inventory optimization under dynamic cross-docking operations
  - **Carrier (USA)**: Predictive maintenance for 1,000+ cold-chain containers
  - **PSA (Singapore)**: Supply chain resilience for critical imports/exports (e.g., semiconductors)
