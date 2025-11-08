@@ -27,7 +27,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 #  News
-- *2025.07*: &nbsp; <b>I am joining College of Management and Economics, Tianjin University as Associate Professor in February, 2026.</b>
+- *2025.11*: &nbsp; <b>I am joining College of Management and Economics, Tianjin University, China as Associate Professor in February, 2026.</b>
 
 <span class='anchor' id='-publications'></span>
 #  Publications & Revisions
