@@ -27,7 +27,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 #  News
-- *2025.07*: &nbsp; <b>I am on the 2025-2026 academic job market.</b>
+- *2025.07*: &nbsp; <b>I am joining College of Management and Economics, Tianjin University as Associate Professor in February, 2026.</b>
 
 <span class='anchor' id='-publications'></span>
 #  Publications & Revisions
@@ -35,7 +35,7 @@ redirect_from:
  - **Jinjia Huang**, Chung-Piaw Teo, Fan Wang, Zhou Xu, [Buffer Times Between Scheduled Events in Resource Assignment Problem: A Conflict-Robust Perspective](https://iora.nus.edu.sg/wp-content/uploads/2023/06/ConflictRobustPaper_JinjiaHuang.pdf), <b><em>Manufacturing & Service Operations Management</em></b>, 25(6), 2268-2276, 2023.
 - **Jinjia Huang**,  Stanley Frederick W. T. Lim, M.Serkan. Akturk,  Service Upgrade, Shopper Update: Implications of Adopting 3rd-Party Delivery on Inventory Management, <b><em>Under Second-round Revision (major revision decision) at Management Science</em></b>, 2023.
  - **Jinjia Huang**, Mabel C. Chou,  Chung-Piaw Teo, Graph Neural Network in Supply Chain Management: An Exercise in  Forecasting and Replenishment Planning, <b><em>Under Major Revision at Production and Operations Management</em></b>, 2025.
- -  **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Invited for Submission to Production and Operations Management</em></b>, 2025.
+ -  **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Under Review at Production and Operations Management</em></b>, 2025.
 
    
 <span class='anchor' id='-projects'></span>
@@ -77,7 +77,7 @@ redirect_from:
 </div>
 </div>  
 
- - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Invited for Submission to Production and Operations Management</em></b>, 2025.
+ - **Jinjia Huang**, Zhenzhen Yan, Mabel C. Chou,  Chung-Piaw Teo, The Paradox of Choice: Why Less Can Be More in Decentralized Resource Sharing System, <b><em>Under Review at Production and Operations Management</em></b>, 2025.
 <div class='paper-box'><div class='paper-box-image' style="margin-top: -1.0em; padding-top: 0; margin-bottom: 0"><div><img src='/images/F0_WebAppDashBoard_Sep2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="margin-top: -2.0em; padding-top: 0; margin-bottom: 0">
 [**Research**] <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
